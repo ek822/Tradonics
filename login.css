@@ -1,0 +1,20 @@
+body{
+	font-family: "Brush Script MT", cursive;
+	background-image: url('http://getwallpapers.com/wallpaper/full/7/a/6/14783.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#leftbox {
+	background-color: white;
+}
+
+#textbox{
+	width: 100%;
+	display: inline-flex;
+}
+
+#rightbox {
+	background-color: pink;
+}
+
